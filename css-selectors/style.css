@@ -1,0 +1,4 @@
+/*Es recomendable colocar estos elementos como bloques en el estilo*/
+header, section, nav, aside, footer {
+    display: block;
+    }
